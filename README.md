@@ -9,6 +9,11 @@ Oyeniran Tobi – Data Analyst
 
 Date: June 8, 2025
 
+![Power BI Desktop 6_8_2025 10_56_46 PM](https://github.com/user-attachments/assets/c4b93a9a-165b-4c7b-9ea9-52c1d3165c7b)
+
+![Power BI Desktop 6_8_2025 10_58_47 PM](https://github.com/user-attachments/assets/2965e708-ee53-4091-b2ed-2296d06c4daa)
+
+
 ## Executive Summary
 Palmoria Group is currently facing intense scrutiny for perceived gender inequality across its operations. A detailed analysis of the company’s employee and compensation data reveals disparities in gender distribution, performance ratings, and compensation that support these concerns. Additionally, the company does not fully comply with the new $90,000 minimum wage requirement. This report outlines the key findings, offers data-backed insights, and presents actionable recommendations to guide equitable reform.
 
