@@ -52,6 +52,17 @@ Overall Gender Pay Gap: 2.99%
 
 **_While the average pay gap is modest, it varies significantly by department:_**
 
+markdown
+|      Department      |         Gender Pay Gap      |
+|----------------------|-----------------------------|
+|Business Development  | 11.46% (in favor of male)   |
+|Human Resources       | 7.61% (in favor of male)    |
+|Research & Development| 7.96% (in favor of male)   |
+|Services              | 8.40% (in favor of male)   |
+|Engineering           | -13.09% (in favor of female)   |
+
+
+
 
 
 
