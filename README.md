@@ -44,11 +44,9 @@ Male employees are slightly more represented in Poor and Very Poor categories.
 
 **3. Gender Pay Gap**
 
-Average Male Salary: $74.51K
-
-Average Female Salary: $72.28K
-
-Overall Gender Pay Gap: 2.99%
+- Average Male Salary: $74.51K
+- Average Female Salary: $72.28K
+- Overall Gender Pay Gap: 2.99%
 
 **_While the average pay gap is modest, it varies significantly by department:_**
 
@@ -61,9 +59,26 @@ markdown
 |Services              | 8.40% (in favor of male)   |
 |Engineering           | -13.09% (in favor of female)   |
 
+**4. Minimum Wage Compliance**
+- Minimum wage requirement: $90,000
+- Employees above threshold: 208
+- Employees below threshold: 604
 
+**_By Region: Kaduna has the highest salary obligation of $25.54 post bonus followed by Abuja $23.24 Million post bonus and Lagos is seen to have the lowest payroll of $17.67 Million post bonus_**
 
+**5. Bonus Allocation & Pay Analysis**
 
+- Total Company-Wide Salary (Pre-Bonus): $64.26M
+-  Total Bonus Payout: $2.19M
+-   Total Salary (Post-Bonus): $66.45M
+
+**By Region (Post-Bonus Totals):**
+
+- Kaduna: $25.54M
+-  Abuja: $23.24M
+-   Lagos: $17.67M
+
+## Recommendations
 
 
 
