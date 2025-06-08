@@ -32,3 +32,39 @@ Kaduna: 152 Female vs 170 Male
 Lagos: 106 Female vs 112 Male
 
 **_The gender split is close, but subtle male dominance is seen in all regions._**
+
+**By Department:**
+Some departments show skewed gender distribution, particularly in Accounting, Legal, Product Management and Sales, is seen to have more males than female while department like Business development, Engineering, Research and development, Services have more female and others share equal or a little difference in number.
+
+**2. Ratings by Gender**
+
+Female employees dominate higher performance ratings (Very Good, Good).
+
+Male employees are slightly more represented in Poor and Very Poor categories.
+
+**3. Gender Pay Gap**
+
+Average Male Salary: $74.51K
+
+Average Female Salary: $72.28K
+
+Overall Gender Pay Gap: 2.99%
+
+**_While the average pay gap is modest, it varies significantly by department:_**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
