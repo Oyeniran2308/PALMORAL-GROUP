@@ -59,6 +59,8 @@ markdown
 |Services              | 8.40% (in favor of male)   |
 |Engineering           | -13.09% (in favor of female)   |
 
+**_The -13.09% gender pay gap in Engineering could be in favor of female because there're more female in the department_**
+
 **4. Minimum Wage Compliance**
 - Minimum wage requirement: $90,000
 - Employees above threshold: 208
@@ -79,6 +81,33 @@ markdown
 -   Lagos: $17.67M
 
 ## Recommendations
+**1. Develop a Gender Equity and Compliance Strategy**
+- Establish a Gender Equity Task Force led by HR and legal departments to investigate department-level disparities.
+- Create a public-facing Gender Equity Policy that sets goals for representation, pay equity, and promotion fairness.
+
+**2. Address Departmental Pay Gaps**
+Prioritize Business Development, Services, R&D, and Human Resources for in-depth salary audits and correction plans, especially where significant gaps exist despite a high female workforce presence.
+
+**3. Ensure Minimum Wage Compliance**
+- Immediately identify and list the 604 underpaid employees, then:
+- Draft a phased wage correction plan.
+- Notify impacted employees and communicate timelines.
+- Perform quarterly wage reviews to ensure continued compliance.
+
+**4. Review and Standardize Performance Rating Criteria**
+-Investigate the rating framework and manager evaluation patterns to ensure consistency and reduce unconscious bias.
+Train managers on inclusive performance management and unconscious bias mitigation.
+
+**5. Strengthen Data Transparency and Reporting**
+- Implement quarterly dashboards tracking gender representation, ratings, pay gaps, and minimum wage compliance.
+- Include diversity and equity statistics in internal HR reports and annual public disclosures.
+
+**6. Foster Career Growth for Women**
+- Launch a mentorship and leadership development program for high-performing female staff, especially in departments with upward mobility barriers.
+- Encourage balanced gender representation in promotion, training, and succession planning pipelines.
+
+## Conclusion
+The Palmoria Group must take swift and structured action to resolve the gender-related issues identified. While representation appears nearly balanced, underlying disparities in ratings and pay, coupled with regulatory non-compliance, pose serious risks. Strategic reform and transparent communication will be vital to reposition the company for growth and credibility both locally and globally.
 
 
 
