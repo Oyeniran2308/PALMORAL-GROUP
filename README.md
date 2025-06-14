@@ -53,7 +53,7 @@ Male employees are slightly more represented in Poor and Very Poor categories.
 - Average Female Salary: $72.28K
 - Overall Gender Pay Gap: 2.99%
 
-**_While the average pay gap is modest, it varies significantly by department:_**
+**_While the overall pay gap is modest, it varies significantly by department:_**
 
 markdown
 |      Department      |         Gender Pay Gap      |
