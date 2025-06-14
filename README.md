@@ -1,6 +1,4 @@
 # PALMORIA GROUP EMPLOYEE ANALYSIS REPORT
-## Prepared for:
-Mr. Folarin Ayodeji 
 
 ## Prepared by: 
 Oyeniran Tobi – Data Analyst
