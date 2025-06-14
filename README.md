@@ -1,8 +1,6 @@
 # PALMORIA GROUP EMPLOYEE ANALYSIS REPORT
 ## Prepared for:
-Mr. Ayodeji Chukwuma (CEO)
-
-Mr. Yunus Shofoluwe (CHRO)
+Mr. Folarin Ayodeji 
 
 ## Prepared by: 
 Oyeniran Tobi – Data Analyst
