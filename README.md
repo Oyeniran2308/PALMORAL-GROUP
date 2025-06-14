@@ -67,8 +67,6 @@ markdown
 - Employees above threshold: 208
 - Employees below threshold: 604
 
-**_By Region: Kaduna has the highest salary obligation of $25.54 post bonus followed by Abuja $23.24 Million post bonus and Lagos is seen to have the lowest payroll of $17.67 Million post bonus_**
-
 **5. Bonus Allocation & Pay Analysis**
 
 - Total Company-Wide Salary (Pre-Bonus): $64.26M
@@ -80,6 +78,7 @@ markdown
 - Kaduna: $25.54M
 -  Abuja: $23.24M
 -   Lagos: $17.67M
+**_By Region: Kaduna has the highest salary obligation of $25.54 million post bonus followed by Abuja $23.24 Million post bonus and Lagos is seen to have the lowest payroll of $17.67 Million post bonus_**
 
 ## Recommendations
 **1. Develop a Gender Equity and Compliance Strategy**
